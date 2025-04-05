@@ -1,0 +1,2 @@
+import random as r
+print (f'Hello {r.randrange(0,100)}')
